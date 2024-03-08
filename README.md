@@ -5,7 +5,7 @@ You will create a simple tool that converts seismic moment from one kind of temp
 
 ## Completing the exercise
 
-- **Exercise 4 is due by the start of the next lesson (1 PM, 14 March 2022)**.
+- **Exercise 4 is due by the start of the next lesson (1 PM, 16 March 2024)**.
 - **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
 - **We are [working in pairs](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise.
 
