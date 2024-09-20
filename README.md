@@ -5,7 +5,7 @@ You will create a simple tool that converts seismic moment from one kind of temp
 
 ## Completing the exercise
 
-- **Exercise 4 is due by the start of the next lesson (1 PM, 16 March 2024)**.
+- **Exercise 4 is due by the start of the next lesson (1 PM, 28 September 2024)**.
 - **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
 - **We are [working in pairs](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise.
 
@@ -18,7 +18,7 @@ You will create a simple tool that converts seismic moment from one kind of temp
 
 ### Clone the Exercise 4 repository
 
-Before starting to work with the problems for this week, you should start a new JupyterLab instance and use your own Exercise 4 repository (e.g., `exercise-4-jdaled`) that you will find in our [GitHub Classroom](https://classroom.github.com/classrooms/97962678-geol-197-gdam) or [the course GitHun page](https://github.com/NIGS-GeoPython-2022/).
+Before starting to work with the problems for this week, you should start a new JupyterLab instance and use your own Exercise 4 repository (e.g., `exercise-4-jdaled`) that you will find in our [GitHub Classroom](https://classroom.github.com/classrooms/159227865-nigs-geol-297-gda) or [the course GitHun page](https://github.com/NIGS-GeoPython-2024/).
 
 
 ## Start working
